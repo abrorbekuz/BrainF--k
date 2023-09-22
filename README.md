@@ -1,4 +1,4 @@
-# [https://ru.wikipedia.org/wiki/Brainfuck](BrainF--k)
+# [BrainF--k](https://ru.wikipedia.org/wiki/Brainfuck)
 BrainF**k executor written in python
 
 
